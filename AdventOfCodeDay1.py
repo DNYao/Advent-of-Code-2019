@@ -1,6 +1,6 @@
 ######################################
 # Advent of Code 2019 Challenge
-# Days 1-25
+# Days 1
 ######################################
 
 ### Day 1 ###
@@ -20,12 +20,3 @@ for mass in modules:
     total_fuel += module_fuel
 
 print('Day 1:' + total_fuel)
-
-### Day 2 ###
-
-def addition()
-
-
-def multiplication()
-
-def stop()
